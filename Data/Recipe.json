@@ -1,7 +1,7 @@
 [
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "Gordon Ramsay",
+        "name": "John L. Brooks",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "1",
         "recipes": [
@@ -267,7 +267,7 @@
     },
     {
         "id": "0282e0e58a5c404jbd15291f11c2ab6a",
-        "name": "Jamie Oliver",
+        "name": "Deborah N. Seymour",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "2",
         "recipes": [
@@ -506,7 +506,7 @@
     },
     {
         "id": "0282e0e58a5c404jbd15261f11c2ab6a",
-        "name": "Ina Garten",
+        "name": "Jordan Lansell",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "3",
         "recipes": [
@@ -772,7 +772,7 @@
     },
     {
         "id": "0282e0e57a5c404jbd15261f11c2ab6a",
-        "name": "Nigella Lawson",
+        "name": "Christopher Barlee",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "4",
         "recipes": [
@@ -1011,7 +1011,7 @@
     },
     {
         "id": "0282e0e58a5c414jbd15261f11c2ab6a",
-        "name": "Anthony Bourdain",
+        "name": "Alexis Lightfoot",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "5",
         "recipes": [
@@ -1277,7 +1277,7 @@
     },
     {
         "id": "0282e0e58a5c404jbd25261f11c2ab6a",
-        "name": "Bobby Flay",
+        "name": "Audrey Lapsley",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "6",
         "recipes": [
@@ -1516,7 +1516,7 @@
     },
     {
         "id": "0282e0p58a5c404jbd15261f11c2ab6a",
-        "name": "Giada De Laurentiis",
+        "name": "Riley Wadham",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "7",
         "recipes": [
@@ -1782,7 +1782,7 @@
     },
     {
         "id": "0282e0e58a5c404jbd15261f11c2mb6a",
-        "name": "Emeril Lagasse",
+        "name": "Makayla Imlay",
         "image": "https://example.com/gordon-ramsay.jpg",
         "chefs_id": "8",
         "recipes": [
