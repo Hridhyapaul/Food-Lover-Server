@@ -70,5 +70,14 @@
         "experience": 12,
         "recipes": 38,
         "likes": 249
+    },
+    {
+        "id": "9",
+        "name": "Harrison Addis",
+        "image": "https://i.pinimg.com/564x/38/c9/be/38c9bed8afd866d6795f5164e7e7a9f8.jpg",
+        "gender": "Male",
+        "experience": 12,
+        "recipes": 41,
+        "likes": 219
     }
 ]
