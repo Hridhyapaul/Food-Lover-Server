@@ -4,8 +4,11 @@
         "name": "John L. Brooks",
         "bio": "John L. Brooks is a chef, author, and food activist. She is the founder of Chez Panisse restaurant in Berkeley, California, and has been a leading advocate for locally sourced, organic food for decades.",
         "image": "https://i.pinimg.com/564x/46/6a/65/466a656fc3ac34236780c0d85a345b3c.jpg",
+        "experience": 10,
+        "recipes": 35,
+        "likes": 250,
         "chefs_id": "1",
-        "recipes": [
+        "menu": [
             {
                 "name": "Butter Chicken",
                 "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176729.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
@@ -271,8 +274,11 @@
         "name": "Deborah N. Seymour",
         "bio": "Deborah N. Seymour is a celebrity chef, restaurateur, and television personality. She has owned and operated several Michelin-starred restaurants, and is known for her fiery personality and high culinary standards.",
         "image": "https://i.pinimg.com/564x/a7/f1/72/a7f172e638da2d2cb36650e004042218.jpg",
+        "experience": 9,
+        "recipes": 30,
+        "likes": 150,
         "chefs_id": "2",
-        "recipes": [
+        "menu": [
             {
                 "name": "Chicken Samosas",
                 "image": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Chicken-Samosas_EXPS_TOHFM23_245621_P2_MD_09_09_2b.jpg?fit=700,1024",
@@ -511,8 +517,11 @@
         "name": "Jordan Lansell",
         "bio": "Jordan Lansell was a chef, author, and television personality who introduced French cuisine to the American public. He wrote numerous cookbooks and hosted several television shows, including the iconic 'The French Chef.'",
         "image": "https://i.pinimg.com/564x/8d/66/b4/8d66b4c91d177f94e6531b223fa41b1d.jpg",
+        "experience": 15,
+        "recipes": 45,
+        "likes": 256,
         "chefs_id": "3",
-        "recipes": [
+        "menu": [
             {
                 "name": "Butter Chicken",
                 "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176729.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
@@ -778,8 +787,11 @@
         "name": "Christopher Barlee",
         "bio": "Christopher Barlee is a celebrity chef, restaurateur, and television personality. He is known for his simple, healthy approach to cooking and his advocacy for healthier eating habits.",
         "image": "https://i.pinimg.com/564x/d2/35/47/d2354797cfb995122e8bf0248cb1fd76.jpg",
+        "experience": 12,
+        "recipes": 25,
+        "likes": 180,
         "chefs_id": "4",
-        "recipes": [
+        "menu": [
             {
                 "name": "Chicken Samosas",
                 "image": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Chicken-Samosas_EXPS_TOHFM23_245621_P2_MD_09_09_2b.jpg?fit=700,1024",
@@ -1018,8 +1030,11 @@
         "name": "Alexis Lightfoot",
         "bio": "Alexis Lightfoot is a celebrity chef, restaurateur, and television personality. She is known for her Creole and Cajun cuisine, as well as her catchphrases like 'Bam!' and 'Kick it up a notch!'",
         "image": "https://i.pinimg.com/564x/de/48/f1/de48f11e1352ecb04af5e709015d47c2.jpg",
+        "experience": 11,
+        "recipes": 45,
+        "likes": 226,
         "chefs_id": "5",
-        "recipes": [
+        "menu": [
             {
                 "name": "Butter Chicken",
                 "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176729.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
@@ -1285,8 +1300,11 @@
         "name": "Audrey Lapsley",
         "bio": "Audrey Lapsley is a chef, author, and television personality. She is known for her sensual approach to cooking and her use of rich, indulgent ingredients. She has written several cookbooks and hosted several television shows.",
         "image": "https://i.pinimg.com/564x/5f/9c/91/5f9c91fc2df3edb394de5aa2dd51e408.jpg",
+        "experience": 10,
+        "recipes": 35,
+        "likes": 189,
         "chefs_id": "6",
-        "recipes": [
+        "menu": [
             {
                 "name": "Chicken Samosas",
                 "image": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Chicken-Samosas_EXPS_TOHFM23_245621_P2_MD_09_09_2b.jpg?fit=700,1024",
@@ -1525,8 +1543,11 @@
         "name": "Riley Wadham",
         "bio": "Riley Wadham was a chef, author, and television personality. He was known for his adventurous spirit and his love of global cuisine. He wrote several books, including 'Kitchen Confidential,' and hosted several television shows, including 'No Reservations' and 'Parts Unknown.'",
         "image": "https://i.pinimg.com/564x/f6/f4/f3/f6f4f3606e3b6b22b863a029c50d45e8.jpg",
+        "experience": 13,
+        "recipes": 47,
+        "likes": 450,
         "chefs_id": "7",
-        "recipes": [
+        "menu": [
             {
                 "name": "Butter Chicken",
                 "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176729.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
@@ -1792,8 +1813,11 @@
         "name": "Makayla Imlay",
         "bio": "Makayla Imlay is a chef, author, and television personality. She is known for her elegant, yet approachable recipes, and her popular cooking show, 'Barefoot Contessa.' She has written numerous cookbooks and owned a specialty food store in the Hamptons.",
         "image": "https://i.pinimg.com/564x/8c/79/ad/8c79ad83c69ceda5379e9e3dee683e43.jpg",
+        "experience": 12,
+        "recipes": 38,
+        "likes": 249,
         "chefs_id": "8",
-        "recipes": [
+        "menu": [
             {
                 "name": "Chicken Samosas",
                 "image": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Chicken-Samosas_EXPS_TOHFM23_245621_P2_MD_09_09_2b.jpg?fit=700,1024",
@@ -2032,8 +2056,11 @@
         "name": "Harrison Addis",
         "bio": "Harrison Addis is a chef, restaurateur, and television personality. He is known for his fusion cuisine, which blends Asian and Western flavors. He has written several cookbooks and hosted several television shows, including 'Simply Ming.'",
         "image": "https://i.pinimg.com/564x/38/c9/be/38c9bed8afd866d6795f5164e7e7a9f8.jpg",
+        "experience": 12,
+        "recipes": 41,
+        "likes": 219,
         "chefs_id": "9",
-        "recipes": [
+        "menu": [
             {
                 "name": "Butter Chicken",
                 "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176729.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
